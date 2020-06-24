@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T15:48:54.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="LHHP3UILNGCNAqQwd2xt" version="13.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T16:24:08.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="lPrClZaTMQqTtBnXu7cN" version="13.3.3" type="github">
   <diagram id="4KjrpJq_8pnIDjTvLx3j" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="600" as="sourcePoint" />
             <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-11" value="Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-12" value="Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-13" value="Business" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-14" value="Юристы&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="44" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-15" value="ОМиДР&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="148" y="660" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-16" value="" style="endArrow=classic;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjYmiGTsJopW1VfQrlq_-15" target="NjYmiGTsJopW1VfQrlq_-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-17" value="" style="endArrow=classic;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjYmiGTsJopW1VfQrlq_-2" target="NjYmiGTsJopW1VfQrlq_-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
