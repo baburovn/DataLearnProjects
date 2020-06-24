@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T14:36:30.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" version="13.3.3" etag="4fsXiodQ8XFNvSFq6IwU" type="github"><diagram id="4KjrpJq_8pnIDjTvLx3j">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-24T15:48:54.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="LHHP3UILNGCNAqQwd2xt" version="13.3.3" type="github">
+  <diagram id="4KjrpJq_8pnIDjTvLx3j" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-1" value="1C УПП" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-2" value="1с документооборот" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-3" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjYmiGTsJopW1VfQrlq_-2" target="NjYmiGTsJopW1VfQrlq_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-6" value="POWER BI&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/128/SEO_Performance_2__.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="366" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-8" value="Пока ручная&lt;br&gt;выгрузка&lt;br&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjYmiGTsJopW1VfQrlq_-1" target="NjYmiGTsJopW1VfQrlq_-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-9" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.excel_services;" vertex="1" parent="1">
+          <mxGeometry x="619" y="600" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NjYmiGTsJopW1VfQrlq_-10" value="" style="endArrow=classic;html=1;exitX=0.85;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NjYmiGTsJopW1VfQrlq_-1" target="NjYmiGTsJopW1VfQrlq_-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
